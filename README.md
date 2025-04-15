@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI-driven Chatbots, RAG Systems, and Multi-Agent AI Applications**
 
-- 💬 Ask me about **Python, FastAPI, Django, LangChain, LlamaIndex, CrewAI, AI Agents, React.js, Docker, RAG, and Fine-Tuning**
+- 💬 Ask me about **Python, FastAPI, Django, LangChain, LlamaIndex, LangGraph, CrewAI, AI Agents, React.js, Docker, RAG, and Fine-Tuning**
 
 - ⚡ Fun fact: I love solving complex problems with simple solutions.  
 
